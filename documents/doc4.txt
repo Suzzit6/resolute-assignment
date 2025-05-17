@@ -1,0 +1,159 @@
+Privacy Policy and Terms of Service for NVIDIA Services
+
+Last Updated: [Date]
+
+Privacy Policy
+
+1. Introduction
+
+This Privacy Policy describes how NVIDIA Corporation and its subsidiaries ("NVIDIA," "we," "our," or "us") collect, use, and share information about you when you interact with our services, applications, websites, and related technologies (collectively, "Services").
+
+2. Information We Collect
+
+Personal Information:
+- Contact information (name, email address, postal address, phone number)
+- Account credentials
+- Payment information
+- Device identifiers and usage data
+- Professional and employment information
+
+Automatic Collection:
+- Device information (hardware model, operating system, IP address)
+- Usage data (features used, time spent, interactions)
+- Performance metrics and crash reports
+- Cookies and similar technologies
+
+3. How We Use Information
+
+We use collected information to:
+- Provide, maintain, and improve our Services
+- Process transactions and fulfill orders
+- Communicate with you about our Services
+- Personalize content and experiences
+- Develop new products and features
+- Ensure security and prevent fraud
+- Comply with legal obligations
+
+4. Information Sharing
+
+We may share information with:
+- NVIDIA subsidiaries and affiliates
+- Service providers and partners who help deliver our Services
+- Legal authorities when required by law
+- Third parties in connection with a business transaction
+
+5. Data Security
+
+We implement reasonable security measures to protect your information from unauthorized access, alteration, or destruction.
+
+6. International Data Transfers
+
+Information collected may be transferred to, stored, and processed in countries where NVIDIA operates, which may have different data protection laws.
+
+7. Your Rights and Choices
+
+Depending on your location, you may have rights to:
+- Access or delete your personal information
+- Correct inaccurate information
+- Object to certain processing activities
+- Opt-out of marketing communications
+
+8. Children's Privacy
+
+Our Services are not directed to children under 16. We do not knowingly collect personal information from children.
+
+9. Changes to This Policy
+
+We may update this Privacy Policy periodically. We will notify you of material changes through our Services or other means.
+
+10. Contact Us
+
+For questions about this Privacy Policy, please contact:
+privacy@nvidia.com
+
+Terms of Service
+
+1. Acceptance of Terms
+
+By accessing or using NVIDIA Services, you agree to these Terms of Service ("Terms").
+
+2. License and Use Rights
+
+NVIDIA grants you a limited, non-exclusive, non-transferable license to use our Services subject to these Terms and applicable license agreements.
+
+3. User Conduct
+
+You agree not to:
+- Violate any laws or regulations
+- Infringe intellectual property rights
+- Distribute malware or harmful code
+- Interfere with the operation of our Services
+- Use our Services for benchmarking without authorization
+- Reverse engineer our Services unless permitted by law
+
+4. Content and Intellectual Property
+
+NVIDIA owns all rights to our Services. You retain rights to your content but grant NVIDIA necessary rights to provide the Services.
+
+5. Disclaimer of Warranties
+
+SERVICES ARE PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
+
+6. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NVIDIA WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
+
+7. Indemnification
+
+You agree to indemnify NVIDIA against claims arising from your use of the Services or violation of these Terms.
+
+8. Term and Termination
+
+These Terms remain effective until terminated. NVIDIA may suspend or terminate your access at any time for violations of these Terms.
+
+9. Governing Law
+
+These Terms are governed by the laws of the State of Delaware, without regard to conflict of law principles.
+
+10. Dispute Resolution
+
+Any dispute will be resolved through binding arbitration in Santa Clara County, California.
+
+Companies Linked to NVIDIA Services
+
+NVIDIA works with various partners to provide its services:
+
+1. Technology Partners:
+    - Microsoft Corporation
+    - Google LLC
+    - Amazon Web Services, Inc.
+    - Intel Corporation
+    - IBM Corporation
+
+2. Software and Platform Partners:
+    - Adobe Inc.
+    - Autodesk, Inc.
+    - Unity Technologies
+    - Epic Games, Inc.
+    - VMware, Inc.
+
+3. Hardware Partners:
+    - ASUS
+    - MSI
+    - EVGA Corporation
+    - Gigabyte Technology
+    - Dell Technologies
+
+4. Cloud Service Providers:
+    - Google Cloud Platform
+    - Microsoft Azure
+    - Amazon Web Services
+    - IBM Cloud
+    - Oracle Cloud
+
+5. Payment Processors:
+    - PayPal Holdings, Inc.
+    - Stripe, Inc.
+    - Adyen N.V.
+
+These third parties may have access to your information when necessary to perform services on NVIDIA's behalf or integrate with NVIDIA technologies. Each has their own privacy practices and terms of service that may also apply to your use of NVIDIA Services.
